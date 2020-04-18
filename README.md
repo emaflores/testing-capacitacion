@@ -1,2 +1,2 @@
 # testing-capavates
-mis respuestas a ejercicios, solicitados como evaluación y avance durante la capacitación
+Mis respuestas a ejercicios de testing, solicitados como evaluación y avance durante la capacitación
